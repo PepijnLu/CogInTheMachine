@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - MovingPlatform
+  - Ladder
+  - Keypad
+  - TV
+  - Radio
+  - Death
+  - Checkpoint
+  - FogToggle
+  - BigRoomCheck
+  - HC1
+  - Hint
+  - Doorknob
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Stairs
+  - Panels
+  - Paintings
+  - Forest
+  - Fake Door
+  - Real door
+  - Outside
+  - FogToggle
+  - Keypad
+  - OffPaintings
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

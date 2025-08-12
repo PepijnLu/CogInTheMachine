@@ -1,0 +1,6 @@
+Canvas used for first keypad code is visible when walking through the building
+
+
+Radio voice recording:
+"EMERGENCY ALERT. WE'RE HAVING SOME ELECTRICAL ISSUES. DON'T WORRY, IT WILL BE RESOLVED SOON."
+"DAILY UPDATE: WEATHER FORECAST: SUNNY. ONLY 5741 MORE DAYS UNTIL YOU'RE FREE TO GO OUTSIDE" 
